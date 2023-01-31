@@ -1,7 +1,3 @@
-#Weight
-#(K)g or (L)bs:
-#Weight in Kg:
-
 weight = float(input("Your Weight: "))
 unit = str(input("Unit: (K)g or (L)bs"))
 if unit.upper() == "k":  
