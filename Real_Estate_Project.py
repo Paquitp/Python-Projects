@@ -16,15 +16,3 @@ else:
 
 print("Your total balance + Interest: $" + str(total_cost))
 print("Done")
-
-  
-
- 
-
-# price = 1_000_000
-# has_good_credit = True
-# if has_good_credit:
-#  down_payment = 0.1 * price
-# else:
-#  down_payment = 0.2 * price
-# print(f"Downpayment: ${down_payment})
